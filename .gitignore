@@ -4,3 +4,4 @@ Settings
 Packages/Package Control/package_control
 *.pyc
 *.cache
+.DS_Store
