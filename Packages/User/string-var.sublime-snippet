@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+var ${1:name} = '${2:value}';$3
+]]></content>
+  <tabTrigger>string-var</tabTrigger>
+    <description>string-var: insert a string variable</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

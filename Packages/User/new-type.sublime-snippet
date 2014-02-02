@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+function ${1:Object}(${2:spec}) {
+  var that = {
+    ${3:get ${4:property}(){return _${4:property};}
+  };
+
+  var _${4:property} = ${2:spec};${5}
+  return that;
+}
+
+${1:Object}.create = function(${2:spec}){return new ${1:Object}();};
+
+if (typeof module !== 'undefined') {module.exports = ${1:Object};}
+]]></content>
+  <tabTrigger>new-type</tabTrigger>
+    <description>new-type</description>
+  <scope>source.js</scope>
+</snippet>

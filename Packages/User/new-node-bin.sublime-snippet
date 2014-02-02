@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+#!/usr/bin/env node
+
+'use strict';
+
+var util = require('util');
+var ${1:name} = require('${2:../path}');
+
+var ${3:instance} = ${1:name}.create();
+${3:instance}.${4:method}(${5:args});
+
+]]></content>
+  <tabTrigger>new-node-bin</tabTrigger>
+    <description>new-node-bin</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

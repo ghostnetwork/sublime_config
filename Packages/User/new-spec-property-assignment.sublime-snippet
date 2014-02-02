@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+var _${1:property} = existy(spec) && existy(spec.${1:property}) ? spec.${1:property} : undefined;
+]]></content>
+  <tabTrigger>new-spec-property-assignment</tabTrigger>
+    <description>new-spec-property-assignment</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

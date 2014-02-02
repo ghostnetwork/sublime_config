@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+that.${1:method} = function(${2:param}) {
+  ${3:body};
+};
+]]></content>
+  <tabTrigger>new-that-method</tabTrigger>
+    <description>new-that-method</description>
+  <scope>source.js</scope>
+</snippet>

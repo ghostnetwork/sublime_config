@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+it('should ${1:not fail}', function(){
+  $2
+});
+]]></content>
+  <tabTrigger>it-specification</tabTrigger>
+    <description>it-specification: insert a new it specification</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

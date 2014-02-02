@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+console.log('$2${1:message}: ' + ${1:message});${3:}
+]]></content>
+  <tabTrigger>conlog</tabTrigger>
+    <description>console.log() statement</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
++ '(' + ${1:body} + ')'
+]]></content>
+	<tabTrigger>add-in-parens</tabTrigger>
+    <description>add-in-parens</description>
+	<scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

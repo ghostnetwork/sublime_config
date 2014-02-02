@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+console.log('${1:name}: ' + util.inspect(${1:name}));$2
+]]></content>
+  <tabTrigger>console-inspect</tabTrigger>
+    <description>console-inspect: insert console with util.inspect()</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

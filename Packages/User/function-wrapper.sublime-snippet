@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+(function(){
+  ${1:body}
+}());
+]]></content>
+  <tabTrigger>function-wrapper</tabTrigger>
+    <description>function-wrapper</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+var _${1:name} = ${2:undefined};
+Object.defineProperty(that, '${1:name}', {
+  get : function() {return _${1:name};},
+  enumerable : true
+});
+]]></content>
+  <tabTrigger>define-getter</tabTrigger>
+    <description>define-getter</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

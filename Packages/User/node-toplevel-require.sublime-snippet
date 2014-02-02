@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+var ${1:name1} = require('${2:${1:path1}}')
+  , ${3:name2} = require('${4:${3:path2}}');
+
+]]></content>
+  <tabTrigger>node-toplevel-require</tabTrigger>
+    <description>node-toplevel-require</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

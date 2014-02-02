@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+require('${1:verdoux-predicates}');
+]]></content>
+  <tabTrigger>require</tabTrigger>
+    <description>require</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

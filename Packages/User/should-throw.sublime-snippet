@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+(function(){
+  ${1:body}
+}).should.throw();
+]]></content>
+  <tabTrigger>should-throw</tabTrigger>
+    <description>should-throw</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

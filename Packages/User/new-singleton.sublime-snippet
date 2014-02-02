@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+if (${1:name}.prototype.instance) { return ${1:name}.prototype.instance; };
+${1:name}.prototype.instance = that;
+]]></content>
+  <tabTrigger>new-singleton</tabTrigger>
+    <description>new-singleton</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>
