@@ -1,0 +1,26 @@
+<snippet>
+  <content><![CDATA[
+var assert = require('assert');
+var should = require('should');
+var sinon = require('sinon');
+var util = require('util');
+var ${1:class} = require('${2:path}');
+require('${3:}verdoux/predicates.js');
+
+describe('${1:class}', function(){
+  'use strict';
+
+  var ${4:name};
+
+  beforeEach(function() {${4:name} = ${1:class}.create();});
+
+  it('should be able to be created', function(){assert(existy(${4:name}));});
+  ${5}
+});
+
+]]></content>
+  <tabTrigger>new-specification</tabTrigger>
+    <description>new-specification: create a new specification</description>
+  <scope>source.js</scope>
+    <!--${1:class}-->
+</snippet>

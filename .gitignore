@@ -1,0 +1,6 @@
+archive
+Backup
+Settings
+Packages/Package Control/package_control
+*.pyc
+*.cache

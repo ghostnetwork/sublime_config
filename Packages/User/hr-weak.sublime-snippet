@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+//-----------------------------------------------------------------------------
+]]></content>
+	<tabTrigger>hr-weak</tabTrigger>
+    <description>hr-weak</description>
+	<scope></scope>
+    <!--${1:name}-->
+</snippet>

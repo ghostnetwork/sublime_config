@@ -1,0 +1,11 @@
+{
+	"installed_packages":
+	[
+		"ColorPicker",
+		"F#",
+		"Package Control",
+		"PowerShell",
+		"Pretty JSON",
+		"SideBarEnhancements"
+	]
+}

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+describe('${1:name}', function(){
+  it('should ${2:not fail}', function(){
+    $3
+  });
+});
+]]></content>
+  <tabTrigger>describe-specification</tabTrigger>
+    <description>describe-specification: insert a new describe specification</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

@@ -1,0 +1,25 @@
+<snippet>
+  <content><![CDATA[
+'use strict';
+
+(function() {
+  $6
+
+  function ${1:name}(${2:spec}){
+    var that = {
+      ${3:get ${4:property}(){return _${4:property};}}
+    };
+
+    var _${4:property} = ${2:spec};${5}
+    return that;
+  };
+  ${1:name}.create = function(${2:spec}) {return new ${1:name}(${2:spec});};
+  module.exports = ${1:name};
+}).call(this);
+
+]]></content>
+  <tabTrigger>new-module</tabTrigger>
+    <description>new-module</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

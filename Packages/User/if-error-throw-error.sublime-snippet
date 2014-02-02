@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+if (error) throw error;$1
+]]></content>
+  <tabTrigger>if-error-throw-error</tabTrigger>
+    <description>if-error-throw-error: throw error statement</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

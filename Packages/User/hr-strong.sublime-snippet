@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+///////////////////////////////////////////////////////////////////////////////
+]]></content>
+  <tabTrigger>hr-strong</tabTrigger>
+    <description>hr-strong</description>
+  <scope></scope>
+    <!--${1:name}-->
+</snippet>

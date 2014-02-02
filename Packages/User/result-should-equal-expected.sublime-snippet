@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+(${1:result}).should.equal(${2:expected});
+]]></content>
+  <tabTrigger>result-should-equal-expected</tabTrigger>
+    <description>result-should-equal-expected</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

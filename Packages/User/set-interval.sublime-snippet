@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+setInterval(function() {
+  ${2:body}
+}, ${1:interval});
+]]></content>
+  <tabTrigger>set-interval</tabTrigger>
+    <description>set-interval</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

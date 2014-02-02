@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+setTimeout(function() {
+  ${2:body;}
+}, ${1:delay});
+]]></content>
+  <tabTrigger>set-timeout</tabTrigger>
+    <description>set-timeout: inserts a setTimeout() statement</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>

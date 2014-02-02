@@ -1,0 +1,16 @@
+[
+{ "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+{ "keys": ["super+shift+alt+s"], "command": "new_snippet" },
+{ "keys": ["super+alt+w"], "command": "expand_selection", "args": {"to": "word"} },
+{ "keys": ["super+shift+c"], "command": "insert", "args": {"characters": ";"} },
+{ "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "Packages/User/add-semi-end-of-line.sublime-macro"} },
+{ "keys": ["super+shift+;"], "command": "run_macro_file", "args": {"file": "Packages/User/complete-function.sublime-macro"} },
+{ "keys": ["ctrl+alt+up"], "command": "swap_line_up" },
+{ "keys": ["ctrl+alt+down"], "command": "swap_line_down" },
+{ "keys": ["super+ctrl+alt+up"], "command": "scroll_lines", "args": {"amount": 1.0} },
+{ "keys": ["super+ctrl+alt+down"], "command": "scroll_lines", "args": {"amount": -1.0} },
+{ "keys": ["ctrl+alt+1"], "command": "run_macro_file", "args": {"file": "Packages/User/collapse-into-one-line.sublime-macro"} },
+{ "keys": ["ctrl+alt+2"], "command": "run_macro_file", "args": {"file": "Packages/User/to-dot-notation.sublime-macro"} },
+{ "keys": ["ctrl+alt+3"], "command": "run_macro_file", "args": {"file": "Packages/User/to-subscript-notation.sublime-macro"} },
+{ "keys": ["super+ctrl+c"], "command": "color_pick" }
+]

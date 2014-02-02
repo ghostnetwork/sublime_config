@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+, ${1:name} = require('${2:path}')
+]]></content>
+  <tabTrigger>add-toplevel-require</tabTrigger>
+    <description>add-toplevel-require</description>
+  <scope>source.js</scope>
+    <!--${1:name}-->
+</snippet>
