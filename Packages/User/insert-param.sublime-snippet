@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+\${1:${1:name}}
+]]></content>
+  <tabTrigger>insert-param</tabTrigger>
+    <description>insert-param: insert a parameter tag</description>
+  <scope></scope>
+    <!--${1:name}-->
+</snippet>

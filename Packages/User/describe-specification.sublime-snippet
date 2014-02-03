@@ -2,7 +2,7 @@
   <content><![CDATA[
 describe('${1:name}', function(){
   it('should ${2:not fail}', function(){
-    $3
+    ${3:body}
   });
 });
 ]]></content>
