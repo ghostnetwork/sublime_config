@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var ${1:name} = require('${2:path}');
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>node-require</tabTrigger>
+  <description>node-require</description>
+</snippet>

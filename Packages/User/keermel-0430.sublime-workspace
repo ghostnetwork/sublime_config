@@ -1,0 +1,1412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"new",
+				"new-type	new-type"
+			],
+			[
+				"newm",
+				"new-module	new-module: create a new module"
+			],
+			[
+				"wo",
+				"wordC"
+			],
+			[
+				"xd",
+				"xdTokenValid"
+			],
+			[
+				"acc",
+				"accountEmail"
+			],
+			[
+				"de",
+				"decryptedXdToken"
+			],
+			[
+				"dec",
+				"decryptToken"
+			],
+			[
+				"aesk",
+				"aesKeyParts"
+			],
+			[
+				"encr",
+				"encryptedToken"
+			],
+			[
+				"enc",
+				"encryptedKey"
+			],
+			[
+				"surv",
+				"survey-tools"
+			],
+			[
+				"po",
+				"prototypes"
+			],
+			[
+				"pro",
+				"procId"
+			],
+			[
+				"ca",
+				"Calculate"
+			],
+			[
+				"val",
+				"valueBtc"
+			],
+			[
+				"ocp",
+				"octaveInstallPath"
+			],
+			[
+				"scrr",
+				"scraper"
+			],
+			[
+				"newmo",
+				"new-module	new-module: create a new module"
+			],
+			[
+				"conn",
+				"connectorFromSpec"
+			],
+			[
+				"Act",
+				"ActionSpec"
+			],
+			[
+				"descr",
+				"description"
+			],
+			[
+				"hig",
+				"highlightColorFixture"
+			],
+			[
+				"cre",
+				"createFromJSON"
+			],
+			[
+				"L",
+				"LocalStorageFixtures"
+			],
+			[
+				"loc",
+				"localStorage"
+			],
+			[
+				"createfr",
+				"createFromSpec"
+			],
+			[
+				"Locals",
+				"LocalStorageSpec"
+			],
+			[
+				"Local",
+				"LocalStorage"
+			],
+			[
+				"lo",
+				"localStorageFileName"
+			],
+			[
+				"LocalStor",
+				"LocalStorageSpec"
+			],
+			[
+				"inpu",
+				"inputPortSegmentView"
+			],
+			[
+				"nexta",
+				"nextActionView"
+			],
+			[
+				"startp",
+				"startProgramView"
+			],
+			[
+				"start",
+				"startProgramView"
+			],
+			[
+				"Prog",
+				"ProgramEnd"
+			],
+			[
+				"addIn",
+				"addInputPort"
+			],
+			[
+				"in",
+				"inputPortsCount"
+			],
+			[
+				"_",
+				"_inputPorts"
+			],
+			[
+				"ac",
+				"actionView"
+			],
+			[
+				"af",
+				"afun	anonymous function"
+			],
+			[
+				"sha",
+				"shapesToRemove"
+			],
+			[
+				"sel",
+				"selectedChildViewCount"
+			],
+			[
+				"dr",
+				"dropTargets"
+			],
+			[
+				"acce",
+				"acceptDrop"
+			],
+			[
+				"drop",
+				"dropTargets"
+			],
+			[
+				"recta",
+				"Rectangle"
+			],
+			[
+				"dropT",
+				"dropTarget"
+			],
+			[
+				"dropt",
+				"dropTarget"
+			],
+			[
+				"cle",
+				"clientX"
+			],
+			[
+				"cl",
+				"clientY"
+			],
+			[
+				"offsetf",
+				"offsetFromDraggedItemCenter"
+			],
+			[
+				"dragdrop",
+				"dragdrop"
+			],
+			[
+				"newsp",
+				"new-specification	new-specification: create a new specification"
+			],
+			[
+				"gamel",
+				"gameLoopHandler"
+			],
+			[
+				"pu",
+				"pulseHandler"
+			],
+			[
+				"serv",
+				"serviceType"
+			],
+			[
+				"subs",
+				"subscriber"
+			],
+			[
+				"pubs",
+				"pubsub"
+			],
+			[
+				"FSha",
+				"FSharpCommon"
+			],
+			[
+				"az",
+				"azurePsCmdletsInstaller"
+			],
+			[
+				"des",
+				"destDirName"
+			],
+			[
+				"down",
+				"downloadPath"
+			],
+			[
+				"di",
+				"directoryExists"
+			],
+			[
+				"insta",
+				"install-azure-binaries"
+			],
+			[
+				"insp",
+				"installPath"
+			],
+			[
+				"print",
+				"printFunctionNameHeader"
+			],
+			[
+				"ins",
+				"install-build-dependencies"
+			],
+			[
+				"W",
+				"Write-Host"
+			],
+			[
+				"min",
+				"minorVersion"
+			],
+			[
+				"shar",
+				"sharpointUtilsPath"
+			],
+			[
+				"comm",
+				"commonUtilsPath"
+			],
+			[
+				"psu",
+				"psUtilsRepoURL"
+			],
+			[
+				"tempD",
+				"tempDirPath"
+			],
+			[
+				"mon",
+				"moduleName"
+			],
+			[
+				"temp",
+				"tempDirPath"
+			],
+			[
+				"Wri",
+				"Write-Verbose"
+			],
+			[
+				"ex",
+				"expected"
+			],
+			[
+				"fir",
+				"firstItemTarget"
+			],
+			[
+				"exi",
+				"exists"
+			],
+			[
+				"cop",
+				"copiedFiles"
+			],
+			[
+				"dire",
+				"directory"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"local",
+				"localCommitSHA"
+			],
+			[
+				"loca",
+				"localPath"
+			],
+			[
+				"rep",
+				"repoURL"
+			],
+			[
+				"mod",
+				"modules"
+			],
+			[
+				"impo",
+				"import-module"
+			],
+			[
+				"moddp",
+				"moduleDestinationPath"
+			],
+			[
+				"instal",
+				"installPowershellModule"
+			],
+			[
+				"modu",
+				"moduleName"
+			],
+			[
+				"mo",
+				"moduleIsInstalled"
+			],
+			[
+				"modup",
+				"modulePathWithSHA"
+			],
+			[
+				"test",
+				"testDataPath"
+			],
+			[
+				"res",
+				"resolvePath"
+			],
+			[
+				"invo",
+				"invokeExpression"
+			],
+			[
+				"tem",
+				"tempDir"
+			],
+			[
+				"create",
+				"createDirectoryIfNotExists"
+			],
+			[
+				"prop",
+				"propertiesFilePath"
+			],
+			[
+				"ps",
+				"psPath"
+			],
+			[
+				"azu",
+				"azureSdkInstallUtils"
+			],
+			[
+				"vs",
+				"vs_ultimate"
+			],
+			[
+				"Wr",
+				"Write-Host"
+			],
+			[
+				"Write",
+				"Write-Verbose"
+			],
+			[
+				"direc",
+				"directory"
+			],
+			[
+				"as",
+				"azureSdkDestPath"
+			],
+			[
+				"d",
+				"directoryName"
+			],
+			[
+				"dwo",
+				"downloadAzureSdkFiles"
+			],
+			[
+				"us",
+				"userChoice"
+			],
+			[
+				"av",
+				"avgBaseCreationData"
+			],
+			[
+				"eason",
+				"eastonshark"
+			],
+			[
+				"Eas",
+				"Easton"
+			],
+			[
+				"eas",
+				"eastonweb"
+			],
+			[
+				"me",
+				"messagetext"
+			],
+			[
+				"east",
+				"eastonCosmosTableName"
+			],
+			[
+				"messa",
+				"messages"
+			],
+			[
+				"setTi",
+				"set-timeout	set-timeout: inserts a setTimeout() statement"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"sett",
+				"set-timeout	set-timeout: inserts a setTimeout() statement"
+			],
+			[
+				"newfu",
+				"new-functional-module	new-functional-module"
+			],
+			[
+				"createT",
+				"createTableIfNotExists"
+			],
+			[
+				"ta",
+				"tableService"
+			],
+			[
+				"tab",
+				"tableResult"
+			],
+			[
+				"f",
+				"fixup"
+			],
+			[
+				"sto",
+				"storageAccountKey"
+			],
+			[
+				"sub",
+				"subscriptionName"
+			],
+			[
+				"s",
+				"subscriptionName"
+			],
+			[
+				"scr",
+				"scripts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/keermel/dev/xdhub/httphooks/readme.md",
+			"settings":
+			{
+				"buffer_size": 4465,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/keermel/dev/xdhub/httphooks/tests/mocks/http/IncomingMessage.js",
+			"settings":
+			{
+				"buffer_size": 696,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/keermel/dev/xdhub/httphooks/package.json",
+			"settings":
+			{
+				"buffer_size": 880,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/profile.example.ps1",
+			"settings":
+			{
+				"buffer_size": 768,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/GitTabExpansion.ps1",
+			"settings":
+			{
+				"buffer_size": 10752,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/GitPrompt.ps1",
+			"settings":
+			{
+				"buffer_size": 7134,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/keermel/Desktop/working.txt",
+			"settings":
+			{
+				"buffer_size": 1061,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/keermel/Desktop/todos.txt",
+			"settings":
+			{
+				"buffer_size": 2,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Windows/System32/drivers/etc/hosts",
+			"settings":
+			{
+				"buffer_size": 1041,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"prefereces Default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: new-type"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package li",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/keermel/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/GitHub, Inc/Git Shell.lnk",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/WindowsLive.fs",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/Authorize.fs",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/AuthTools.fs",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/CertTools.fs",
+		"/C/Users/keermel/dev/xdhub/http-agent/HttpAgent/WorkerRole.fs",
+		"/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/profile.example.ps1",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/archive/Sublime Text 2x/archive/Packages/Language - English/en_GB.dic",
+		"/C/Users/keermel/AppData/Local/Microsoft/Windows/SkyDrive/settings/downloads.txt",
+		"/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/posh-git.psm1",
+		"/C/Users/keermel/AppData/Local/GitHub/shell.ps1",
+		"/C/Windows/WinSxS/x86_microsoft-windows-t..riventextservice-yi_31bf3856ad364e35_6.3.9600.16384_none_d61d3844da40e2d9/TableTextServiceYi.txt",
+		"/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/install.ps1",
+		"/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/Utils.ps1",
+		"/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/.gitignore",
+		"/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/.gitattributes",
+		"/C/Users/keermel/AppData/Local/GitHub/TheLog.txt",
+		"/C/Users/keermel/dev/xdhub/http-agent/.git/COMMIT_EDITMSG",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools.Client/Program.fs",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/Web.fs",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/F#.sublime-settings",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/keermel/dev/keithermel/javascript/sagamore/index.js",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools.Client/AuthTools.Client.fsproj",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/keermel/dev/xdhub/auth-tools/build/pushToNuget.ps1",
+		"/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/GitPrompt.ps1",
+		"/C/Users/keermel/dev/xdhub/http-agent/build/package.ps1",
+		"/C/Users/keermel/dev/xdhub/http-agent/build/build.ps1",
+		"/C/Users/keermel/dev/xdhub/auth-tools/build/build.ps1",
+		"/C/Program Files (x86)/MSBuild/12.0/Microsoft.Common.props",
+		"/C/Users/keermel/dev/xdhub/http-agent/HttpAgent/packages.config",
+		"/C/Users/keermel/dev/xdhub/http-agent/packages/AuthTools/lib/net45/AuthTools.XML",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/AuthTools.fsproj",
+		"/C/Users/keermel/dev/xdhub/http-agent/packages/AuthTools/AuthTools.nupkg",
+		"/C/Windows/WinSxS/x86_microsoft-windows-t..ional-chinese-array_31bf3856ad364e35_6.3.9600.16384_none_f97992c77d87f80a/TableTextServiceArray.txt",
+		"/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/GitUtils.ps1",
+		"/C/Users/keermel/Desktop/stuff.txt",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/.git/COMMIT_EDITMSG",
+		"/C/Users/keermel/.gitconfig",
+		"/C/Users/keermel/Desktop/working.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/snippets.txt",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/new-module.sublime-snippet",
+		"/C/Users/keermel/dev/keithermel/javascript/sagamore/test/src/fooSpec.js",
+		"/C/Users/keermel/dev/keithermel/javascript/sagamore/src/node.js",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/new-create-module.sublime-snippet",
+		"/C/Users/keermel/dev/keithermel/javascript/sagamore/src/foo.js",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/.gitignore",
+		"/C/Users/keermel/dev/keithermel/javascript/sagamore/test/src/nodeSpec.js",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/var-statement.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/string-var.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/var-function.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/use-strict.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/to-dot-notation.sublime-macro",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/to-dot-notation.sublime-macro",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/string-var.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/statement.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/statement.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/simple-console-log.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/result-should-equal-expected.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/new-type.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/new-that-method.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/new-spec-property-assignment.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/new-singleton.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/new-simple-type.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/new-node-bin.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/new-property-block.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/new-module-short.sublime-snippet",
+		"/C/Users/keermel/dev/keithermel/javascript/bernie/index.js",
+		"/C/Users/keermel/dev/keithermel/javascript/bernie/src/bernie.js",
+		"/C/Users/keermel/dev/xdhub/http-agent/HttpAgent.Specifications/packages.config",
+		"/C/Users/keermel/dev/xdhub/http-agent/.git/rebase-merge/git-rebase-todo",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/new-module-function.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/new-function.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/new-exports-function.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/new-create-specification.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/if-error-throw-error.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/hr-strong.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/hr-weak.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/function-wrapper.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/describe-specification.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/console-inspect.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/add-toplevel-require.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/add-universal-imports.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/anonymous-function.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/add-in-parens.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/add-in-parens.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/add-property.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/add-function.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/Default (OSX).sublime-keymap",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/AuthTools/AuthTools.fsproj",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/Default/new_templates.py",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/hello.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/fred.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/console-log.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/User/add-dependency.sublime-snippet",
+		"/C/Users/keermel/dev/keithermel/javascript/sagamore/.gitignore",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/AuthTools/Authorize.fs",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/AuthTools.Specifications/AuthTools.spec.fs",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/AuthTools.Specifications/Authorize.spec.fs",
+		"/C/Users/keermel/dev/keithermel/javascript/sagamore/test/indexSpec.js",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings-x/Packages/User/new-type.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/new-module-type.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/new-type.sublime-snippet",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings-x/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/.git/COMMIT_EDITMSG",
+		"/C/Users/keermel/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/keermel/AppData/Roaming/sublime_text_settings/.git/rebase-merge/git-rebase-todo",
+		"/C/Users/keermel/dev/keithermel/javascript/votan/sagamore/.gitignore",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/AuthTools/WindowsLive.fs",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/AuthTools/Web.fs",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/AuthTools/AuthTools.fs",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/AuthTools/Crypto.fs",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/AuthTools/CertTools.fs",
+		"/C/Users/keermel/dev/xdhub/auth-tools/AuthTools/AuthTools/Bitwise.fs",
+		"/C/Users/keermel/dev/xdhub/LocationSpike/LocationSpike/README.md",
+		"/C/Users/keermel/dev/xdhub/fedex/.git/COMMIT_EDITMSG",
+		"/C/Users/keermel/dev/xdhub/http-agent/HttpAgent/Auth.fs",
+		"/C/Users/keermel/Desktop/working2.txt",
+		"/C/Users/keermel/Desktop/products.txt",
+		"/C/Users/keermel/Desktop/meetup.txt",
+		"/C/Users/keermel/Desktop/joinBytes.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\keermel\\AppData\\Local\\GitHub\\PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4",
+			"C:\\Users\\keermel\\dev\\xdhub\\http-agent\\HttpAgent",
+			"<project>",
+			"C:\\Users\\keermel\\dev\\xdhub\\http-agent",
+			"C:\\Users\\keermel\\dev\\xdhub\\fcommon\\dev",
+			"C:\\Users\\keermel\\dev\\xdhub\\easton",
+			"C:\\Users\\keermel\\dev\\xdhub\\ps-core",
+			"C:\\Users\\keermel\\dev\\xdhub\\http-agent\\dev",
+			"C:\\Users\\keermel\\dev\\xdhub\\http-agent",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\bernie",
+			"C:\\Users\\keermel\\dev\\xdhub",
+			"C:\\Users\\keermel\\dev\\xdhub\\http-agent",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\vucari",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken",
+			"C:\\Users\\keermel\\dev\\ms\\PersonalCloud\\Aura\\PersonalCloud",
+			"C:\\Users\\keermel\\dev\\ms\\PersonalCloud",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken\\aken-test\\test",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken\\aken-test",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken\\cento",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken\\aken-test",
+			"C:\\Users\\keermel\\dev\\ms\\PersonalCloud\\Aura",
+			"C:\\Users\\keermel\\dev\\ms\\PersonalCloud",
+			"C:\\Users\\keermel\\dev\\ms\\PersonalCloud\\Aura",
+			"C:\\Users\\keermel\\dev\\ms\\PersonalCloud\\Aura\\PersonalCloud",
+			"C:\\Users\\keermel\\dev\\ms\\PersonalCloud\\OSD\\IPE\\I2E\\Kato",
+			"C:\\Users\\keermel\\dev\\ms\\PersonalCloud\\Aura\\PersonalCloud",
+			"C:\\Users\\keermel\\dev\\ms\\PersonalCloud\\OSD\\IPE\\I2E\\Kato",
+			"C:\\Users\\keermel\\dev\\ms\\PersonalCloud\\Aura\\PersonalCloud",
+			"C:\\Users\\keermel\\dev\\ms\\PersonalCloud\\Aura",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken\\dogbone",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken\\cento",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken\\dogbone",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken",
+			"C:\\Users\\keermel\\dev\\ms\\PersonalCloud",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken",
+			"C:\\Users\\keermel\\dev\\keithermel\\javascript\\aken\\aken-test",
+			"C:\\Users\\keermel\\dev\\xdhub\\azure-cli",
+			"C:\\Users\\keermel\\dev\\ms\\PersonalCloud",
+			"C:\\Users\\keermel\\dev\\xdhub",
+			"C:\\Users\\keermel\\dev\\xdhub\\easton",
+			"C:\\Users\\keermel\\dev\\xdhub",
+			"C:\\Users\\keermel\\dev\\xdhub\\ps-utils",
+			"C:\\Users\\keermel\\dev\\xdhub\\ps-core",
+			"C:\\Users\\keermel\\dev\\xdhub\\ps-utils",
+			"C:\\Users\\keermel\\dev\\xdhub\\http-agent",
+			"C:\\Users\\keermel\\dev\\xdhub\\ps-utils",
+			"C:\\Users\\keermel\\dev\\xdhub\\http-agent\\dev\\ps-utils",
+			"C:\\Users\\keermel\\dev\\xdhub\\azure-cli\\scripts",
+			"C:\\Users\\keermel\\dev\\xdhub\\ps-utils",
+			"C:\\Users\\keermel\\dev\\xdhub\\azure-cli\\scripts",
+			"C:\\Users\\keermel\\dev\\xdhub\\demos",
+			"C:\\Users\\keermel\\dev\\xdhub\\easton\\refproj",
+			"C:\\Users\\keermel\\dev\\ms\\azure-sandbox\\easton\\eastonweb",
+			"C:\\Users\\keermel\\dev\\ms\\azure-sandbox\\easton",
+			"C:\\Users\\keermel\\dev\\xdhub\\easton\\easton-azure-cli",
+			"C:\\Users\\keermel\\dev\\xdhub\\azure-cli\\scripts",
+			"C:\\Users\\keermel\\node_modules\\azure",
+			"C:\\Users\\keermel\\node_modules\\azure-cli",
+			"C:\\Users\\keermel\\node_modules",
+			"C:\\Users\\keermel\\node_modules\\azure",
+			"C:\\Users\\keermel\\node_modules\\azure-cli",
+			"C:\\Users\\keermel\\dev\\keithermel\\votan",
+			"C:\\Users\\keermel\\dev\\ms\\azure\\NodeHelloWorld\\nodehelloworld",
+			"C:\\Users\\keermel\\dev\\ms\\azure\\NodeHelloWorld",
+			"C:\\Users\\keermel\\dev\\xdhub\\azure-cli\\vm_setup",
+			"C:\\Users\\keermel\\dev\\xdhub\\darwin\\Darwin\\darwin",
+			"C:\\Users\\keermel\\dev\\xdhub\\build-winjs",
+			"C:\\Users\\keermel\\dev\\xdhub\\darwin",
+			"C:\\Users\\keermel\\dev\\xdhub\\darwin\\Darwin\\darwin",
+			"C:\\Users\\keermel\\dev\\xdhub\\darwin",
+			"C:\\Users\\keermel\\dev\\xdhub\\darwin\\Darwin\\darwin",
+			"C:\\Users\\keermel\\dev\\xdhub\\darwin\\Darwin",
+			"C:\\Users\\keermel\\dev\\xdhub\\darwin\\Darwin\\darwin\\workshopAgenda",
+			"C:\\Users\\keermel\\dev\\xdhub\\darwin",
+			"C:\\Users\\keermel\\SkyDrive\\dev\\javascript\\projects\\my-nodejs-modules\\votan",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"packToken",
+			"createXdToken",
+			"validateTokenSignature",
+			"getAccessDetails",
+			"extractAccessTokenData",
+			"git-add",
+			"getAccessDetails",
+			"$version",
+			"$(MSBuildExtensionsPath)",
+			"FSharpTargetsPath",
+			"Import",
+			"git-add",
+			"new-create-module",
+			"FSharpTargetsPath",
+			"MoveToAuthServer",
+			"tokenDataSigned",
+			"tokenData",
+			"validateTokenSignature",
+			"packToken",
+			"tokenDataSigned",
+			"publicKey",
+			"privateKey",
+			"singingAlgo",
+			"privateKey",
+			"authorizeRequest",
+			"authorizedRequest",
+			"985583CAA0AAECD7AF0FEF07037B49C33184B487",
+			"wordArray",
+			"[IV]",
+			"IV",
+			"KEY",
+			"aesParts",
+			"|",
+			"myXdAccessToken",
+			"createXdAccessToken",
+			"iv64",
+			"key64",
+			"myAes",
+			"theAesKey",
+			"aesStuff",
+			"theAesKey",
+			"theAesIV",
+			"theEncrKey",
+			"CreateAccessTokenWithPrivateKey",
+			"CreateAccessTokenWithAppSecret",
+			"eKey",
+			"eToken",
+			"authorizationMailbox",
+			"authorizedRequest",
+			"whiteListUser",
+			"createXdAccessToken",
+			"import",
+			"installPackages",
+			"nuget",
+			"FCommon.S",
+			"FCommon",
+			"<Import Project=\"$(FSharpTargetsPath)\" />",
+			"Choose",
+			"rebuild",
+			"Import Project",
+			"<Choose>",
+			"VisualStudioVersion",
+			"FSharpTargetsPath",
+			"survey-tools\\",
+			"survey-tools",
+			"Spss2json",
+			"spss2json",
+			"\\",
+			"ConditionalProbability",
+			"runStringAsCommand",
+			"data",
+			"UseDevelopmentStororage",
+			"invokeExpression",
+			"promptSharepointLogin",
+			"data.status =",
+			"now",
+			"positionDeltaPercent",
+			"positionDelta",
+			"deltaLast",
+			"calculateMarketChanges",
+			"_data",
+			"currentPrice",
+			"originalPosition",
+			"previousLast",
+			"oneSecondTimer",
+			"nonceStr",
+			"options",
+			"previousLast",
+			"originalPosition",
+			"previousLast",
+			"currentPrice",
+			"_data",
+			"../",
+			"logResult",
+			"onRetrieveMarketDataDone",
+			"cash",
+			"GainThreshold",
+			"LossThreshold",
+			"LossThresholdCrossed",
+			"LossThreshold",
+			"./",
+			" ;",
+			"Out-File",
+			"write",
+			"context",
+			"New-AzureStorageTable",
+			"dayToString",
+			"monthToString",
+			"rightNowToString",
+			"onTrigger",
+			"bar",
+			"vim",
+			";",
+			"name=\"Easton\"",
+			"RemoteAccess",
+			"authspike",
+			"\"Easton\"",
+			"\n[",
+			"$octaveInstallPath",
+			"=",
+			"foo",
+			"destDirName",
+			"destPath",
+			"octaveInstallerUrl",
+			"createDirectory",
+			"Write-Host",
+			"temp",
+			"queueBatch"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"-",
+			"",
+			"\n    ",
+			"Boundary",
+			"/",
+			"PROJECT_DIR",
+			"<code>git-credential-winstore.exe</code>",
+			"<code>git-credential-winstore</code>",
+			"/",
+			"- ",
+			"-",
+			"\": \"\",",
+			"",
+			"\\\"",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/keermel/dev/xdhub/httphooks/readme.md",
+					"settings":
+					{
+						"buffer_size": 4465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2178,
+								2178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/keermel/dev/xdhub/httphooks/tests/mocks/http/IncomingMessage.js",
+					"settings":
+					{
+						"buffer_size": 696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								696,
+								696
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/keermel/dev/xdhub/httphooks/package.json",
+					"settings":
+					{
+						"buffer_size": 880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								880,
+								880
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/profile.example.ps1",
+					"settings":
+					{
+						"buffer_size": 768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								746,
+								746
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PowerShell/Support/PowershellSyntax.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/GitTabExpansion.ps1",
+					"settings":
+					{
+						"buffer_size": 10752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1813,
+								1813
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PowerShell/Support/PowershellSyntax.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4088.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/C/Users/keermel/AppData/Local/GitHub/PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4/GitPrompt.ps1",
+					"settings":
+					{
+						"buffer_size": 7134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								613,
+								614
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PowerShell/Support/PowershellSyntax.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "/C/Users/keermel/Desktop/working.txt",
+					"settings":
+					{
+						"buffer_size": 1061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/keermel/Desktop/todos.txt",
+					"settings":
+					{
+						"buffer_size": 2,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "/C/Windows/System32/drivers/etc/hosts",
+					"settings":
+					{
+						"buffer_size": 1041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								841,
+								860
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.470953185609,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.848265215451,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true
+}

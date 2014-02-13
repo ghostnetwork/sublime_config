@@ -5,3 +5,4 @@ Packages/Package Control/package_control
 *.pyc
 *.cache
 .DS_Store
+Packages/User/Package Control.last-run

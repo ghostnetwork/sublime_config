@@ -1,0 +1,25 @@
+<snippet>
+  <content><![CDATA[
+<!doctype html>
+<html>
+  <head>
+    <title>${1:title}</title>
+
+    <meta charset='utf-8'/>
+    <link rel="stylesheet" href="${2:href}"></link>
+    <script src="${3:src}"></script>
+  </head>
+  <body>
+    <h1>${1:title}</h1>
+    <p>
+      ${4:body}
+    </p>
+  </body>
+</html>
+
+]]></content>
+  <tabTrigger>new-html</tabTrigger>
+    <description>new-html: insert html</description>
+  <scope></scope>
+    <!--${1:name}-->
+</snippet>
