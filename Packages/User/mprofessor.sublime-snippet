@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+[`The Professor`](The Professor)${1:}
+]]></content>
+  <tabTrigger>mprofessor</tabTrigger>
+    <description>mprofessor</description>
+  <scope>source.js</scope>
+</snippet>

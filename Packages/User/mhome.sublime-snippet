@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+[`RadiantSquirrel`](Home)${1:}
+]]></content>
+  <tabTrigger>mhome</tabTrigger>
+    <description>mhome</description>
+  <scope></scope>
+</snippet>
+<!-- 
+  [`${1:name}`](Home)${2:}
+->

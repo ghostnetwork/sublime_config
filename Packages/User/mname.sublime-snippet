@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+`${1:name}`
+]]></content>
+  <tabTrigger>mname</tabTrigger>
+    <description>markdown: display 'name' in monofont</description>
+  <scope></scope>
+</snippet>

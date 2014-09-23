@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+[`KBA & The ZeroDays`](KBA & The ZeroDays)${1:}
+]]></content>
+  <tabTrigger>mkbazero</tabTrigger>
+    <description>mkbazero</description>
+  <scope></scope>
+</snippet>

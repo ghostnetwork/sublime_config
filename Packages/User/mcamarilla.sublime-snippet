@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+[`The Camarilla`](The Camarilla)${1:}
+]]></content>
+  <tabTrigger>mcamarilla</tabTrigger>
+    <description>mcamarilla</description>
+  <scope></scope>
+</snippet>

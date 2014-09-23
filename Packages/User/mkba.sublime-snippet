@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+[`KBA`](KBA)${1:}
+]]></content>
+  <tabTrigger>mkba</tabTrigger>
+    <description>mkba</description>
+  <scope></scope>
+</snippet>

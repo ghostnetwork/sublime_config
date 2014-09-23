@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+[`Zero Days`](Zero Days)${1:}
+]]></content>
+  <tabTrigger>mzerodays</tabTrigger>
+    <description>mmzerodays</description>
+  <scope></scope>
+</snippet>

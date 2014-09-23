@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+[`The Alternaverse`](The Alternaverse)${1:}
+]]></content>
+  <tabTrigger>malterna</tabTrigger>
+    <description>malterna</description>
+  <scope></scope>
+</snippet>
